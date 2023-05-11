@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1015297909704",
+    "project_id": "callvideo-ios",
+    "storage_bucket": "callvideo-ios.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015297909704:android:871626df8922dc9b1416fd",
+        "android_client_info": {
+          "package_name": "org.speakeasy.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015297909704-cok2fk5c2a0a767h5rejr6aadu3rv2jd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtL1MfyR2xiasTjCU1wlH3PZKcjwPrevQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015297909704-cok2fk5c2a0a767h5rejr6aadu3rv2jd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1015297909704-qc8q09g9tng4uu6vv172mlqp8bk00s26.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nhatnguyen.VideoCall.voip"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
